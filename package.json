@@ -1,0 +1,12 @@
+{
+  "name": "wstrust-client",
+  "author": "Leandro Boffi <lboffi@gmail.com>",
+  "description": "Simple WS-Trust Client for Node.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandrob/wstrust-client.git"
+    },
+    "keywords": ["node.js", "ws-trust", "wstrust", "adfs", "identity", "federation"],
+    "main": "./lib/wsTrustClient.js"
+}
