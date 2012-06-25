@@ -1,4 +1,3 @@
-
 # WS-Trust Client 0.1
 
 > Simple WS-Trust Client for Node.js
@@ -32,7 +31,7 @@ trustClient.requestSecurityToken({
 	// Error Callback
 	console.log(error)
 
-}
+});
 
 ```
 
