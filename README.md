@@ -1,6 +1,7 @@
-# WS-Trust Client 0.1
+# WS-Trust Client 0.0.1
 
-> Simple WS-Trust Client for Node.js
+> Simple WS-Trust (1.3) Client for Node.js
+
 
 ### Installation
 
@@ -38,8 +39,6 @@ trustClient.requestSecurityToken({
 ### License (MIT)
 
 Copyright (c) 2012, Leandro Boffi.
-
-**
 
 ### Author: [Leandro Boffi][0]
 
